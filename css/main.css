@@ -10306,14 +10306,14 @@ button.button {
   padding: 70px 0 40px; }
 
 .features-01__title_box {
-  text-align: center; }
+  text-align: left; }
 
 .features-01__items {
-  text-align: center;
+  text-align: left;
   justify-content: space-between;
   @media (max-width: 990px) {
     .features-01__items {
-      justify-content: center; } }
+      justify-content: left; } }
   /* padding: 0;
   margin: 0;
   list-style: none;
