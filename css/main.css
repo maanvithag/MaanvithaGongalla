@@ -83,7 +83,7 @@ textarea:focus {
     content: " ";
     /* Older browser do not support empty content */
     visibility: hidden;
-    display: block;
+    display: border-box;
     height: 0;
     clear: both; }
   .container--xsmall {
