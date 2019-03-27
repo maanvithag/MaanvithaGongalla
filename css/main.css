@@ -10332,10 +10332,10 @@ button.button {
   max-width: 768px;
   margin-bottom: 60px;
   padding-right: 30px; } 
-  @media (max-width: 990px) {
+  @media (max-width: 1080px) {
     .features-01__item {
       width: 50%; } }
-  @media (max-width: 600px) {
+  @media (max-width: 1080px) {
     .features-01__item {
       width: 100%;
       padding-right: 0; } }
