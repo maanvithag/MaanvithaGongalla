@@ -74,20 +74,19 @@ input:focus,
 textarea:focus {
   outline: none; }
 
-.container {
+/* .container {
   margin-right: auto;
   margin-left: auto;
-  padding: 0
-  /* padding: 0 15px;
-  max-width: 1080px; } */
+  padding: 0 15px;
+  max-width: 1080px; }
   .container:after {
     content: " ";
-    /* Older browser do not support empty content */
+    Older browser do not support empty content
     visibility: hidden;
     display: border-box;
     height: 0;
     clear: both; }
-  /* .container--xsmall {
+  .container--xsmall {
     max-width: 400px; }
   .container--small {
     max-width: 550px; }
