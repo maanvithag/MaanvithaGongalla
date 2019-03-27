@@ -18,13 +18,13 @@ html {
 
 *::-moz-selection, *::-moz-selection {
   background: url(gplaypattern.png) no-repeat center center fixed;
-  color: white;
-  background-color: #4D61FC; }
+  /*color: white;
+  background-color: #4D61FC; */ }
 
 *::-moz-selection, *::selection {
   background: url(gplaypattern.png) no-repeat center center fixed;
-  color: white;
-  background-color: #4D61FC; }
+  /* color: white;
+  background-color: #4D61FC; */ }
 
 body {
   background: url(gplaypattern.png) no-repeat center center fixed;
