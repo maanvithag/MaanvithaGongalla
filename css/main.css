@@ -10323,7 +10323,7 @@ button.button {
   /*align-items: flex-start;
   flex-wrap: wrap;*/
   margin-top: 60px; }
-  @media (max-width: 990px) {
+  @media (max-width: 1080px) {
     .features-01__items {
       justify-content: center; } } 
 
