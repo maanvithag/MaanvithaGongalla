@@ -10309,7 +10309,12 @@ button.button {
   text-align: center; }
 
 .features-01__items {
-  padding: 0;
+  text-align: center;
+  justify-content: space-between;
+  @media (max-width: 990px) {
+    .features-01__items {
+      justify-content: center; } }
+  /* padding: 0;
   margin: 0;
   list-style: none;
   display: block;
@@ -10319,7 +10324,7 @@ button.button {
   margin-top: 60px; }
   @media (max-width: 990px) {
     .features-01__items {
-      justify-content: center; } }
+      justify-content: center; } } */
 
 .features-01__item {
   width: 30%;
