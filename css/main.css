@@ -77,8 +77,9 @@ textarea:focus {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding: 0 15px;
-  max-width: 1080px; }
+  padding: 0
+  /* padding: 0 15px;
+  max-width: 1080px; } */
   .container:after {
     content: " ";
     /* Older browser do not support empty content */
