@@ -10304,7 +10304,7 @@ button.button {
     text-decoration: underline; }
 
 .features-01 {
-  padding: 70px 0 40px; }
+  padding: 0px 0 40px; }
 
 .features-01__title_box {
   text-align: center; }
@@ -10318,7 +10318,7 @@ button.button {
   /* align-items: flex-start;
   flex-wrap: wrap; */
   margin-top: 60px; }
-  @media (max-width: 990px) {
+  @media (max-width: 1080px) {
     .features-01__items {
       justify-content: center; } }
 
@@ -10327,10 +10327,10 @@ button.button {
   max-width: 350px;
   margin-bottom: 60px;
   padding-right: 30px; }
-  @media (max-width: 990px) {
+  @media (max-width: 1080px) {
     .features-01__item {
       width: 50%; } }
-  @media (max-width: 600px) {
+  @media (max-width: 1080px) {
     .features-01__item {
       width: 100%;
       padding-right: 0; } }
