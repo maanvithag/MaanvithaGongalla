@@ -10323,7 +10323,7 @@ button.button {
 
 .features-01__item {
   width: 30%;
-  max-width: 350px;
+  max-width: 768px;
   margin-bottom: 60px;
   padding-right: 30px; }
   @media (max-width: 990px) {
