@@ -10309,22 +10309,23 @@ button.button {
   text-align: left; }
 
 .features-01__items {
-  text-align: left;
+  /* this is the one that works !   text-align: left;
   justify-content: space-between;
   @media (max-width: 990px) {
     .features-01__items {
-      justify-content: left; } }
-  /* padding: 0;
+      justify-content: left; } } */
+	
+  padding: 0;
   margin: 0;
   list-style: none;
   display: block;
   justify-content: space-between;
-  align-items: flex-start;
-  flex-wrap: wrap;
+  /*align-items: flex-start;
+  flex-wrap: wrap;*/
   margin-top: 60px; }
   @media (max-width: 990px) {
     .features-01__items {
-      justify-content: center; } } */
+      justify-content: center; } } 
 
 .features-01__item {
   /* width: 30%; */
