@@ -83,7 +83,7 @@ textarea:focus {
     content: " ";
     /* Older browser do not support empty content */
     visibility: hidden;
-    display: border-box;
+    display: block;
     height: 0;
     clear: both; }
   .container--xsmall {
@@ -10303,39 +10303,33 @@ button.button {
     text-decoration: underline; }
 
 .features-01 {
-  padding: 0px 0 40px; }
+  padding: 70px 0 40px; }
 
 .features-01__title_box {
   text-align: center; }
 
 .features-01__items {
-  /* this is the one that works !   text-align: left;
-  justify-content: space-between;
-  @media (max-width: 990px) {
-    .features-01__items {
-      justify-content: left; } } */
-	
   padding: 0;
   margin: 0;
   list-style: none;
-  display: block;
+  display: flex;
   justify-content: space-between;
-  /*align-items: flex-start;
-  flex-wrap: wrap;*/
+  align-items: flex-start;
+  flex-wrap: wrap;
   margin-top: 60px; }
-  @media (max-width: 1080px) {
+  @media (max-width: 990px) {
     .features-01__items {
-      justify-content: center; } } 
+      justify-content: center; } }
 
 .features-01__item {
-  /* width: 30%; */
-  max-width: 768px;
+  width: 30%;
+  max-width: 350px;
   margin-bottom: 60px;
-  padding-right: 30px; } 
-  @media (max-width: 1080px) {
+  padding-right: 30px; }
+  @media (max-width: 990px) {
     .features-01__item {
       width: 50%; } }
-  @media (max-width: 1080px) {
+  @media (max-width: 600px) {
     .features-01__item {
       width: 100%;
       padding-right: 0; } }
