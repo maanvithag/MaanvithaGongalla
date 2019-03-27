@@ -86,7 +86,7 @@ textarea:focus {
     display: border-box;
     height: 0;
     clear: both; }
-  .container--xsmall {
+  /* .container--xsmall {
     max-width: 400px; }
   .container--small {
     max-width: 550px; }
@@ -99,7 +99,7 @@ textarea:focus {
   .container--xlarge {
     max-width: 1600px; }
   .container--max {
-    max-width: 100%; }
+    max-width: 100%; } */
 
 header {
   position: relative;
