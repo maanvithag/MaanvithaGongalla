@@ -10312,7 +10312,7 @@ button.button {
   padding: 0;
   margin: 0;
   list-style: none;
-  display: flex;
+  display: block;
   justify-content: space-between;
   align-items: flex-start;
   flex-wrap: wrap;
