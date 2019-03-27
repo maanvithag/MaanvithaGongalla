@@ -1412,6 +1412,7 @@ button.button {
 
 .feature__title_text {
   text-transform: uppercase;
+  text-align: center;
   font-size: 12px; }
 
 .feature__content {

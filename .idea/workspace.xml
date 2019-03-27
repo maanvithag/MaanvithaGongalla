@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be3a212c-53c6-42c4-9a9e-3585ccdc026e" name="Default Changelist" comment="Adding files">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,14 +12,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            <state relative-caret-position="255">
+              <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
               <folding>
                 <element signature="e#678#2421#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="1414" column="21" selection-start-line="1414" selection-start-column="21" selection-end-line="1414" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -41,6 +50,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>header-44</find>
+      <find>feature__title</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -51,6 +61,7 @@
       <list>
         <option value="$USER_HOME$/Downloads/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -70,6 +81,11 @@
             <path>
               <item name="MaanvithaGongalla" type="b2602c69:ProjectViewProjectNode" />
               <item name="MaanvithaGongalla" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MaanvithaGongalla" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MaanvithaGongalla" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MaanvithaGongalla" type="b2602c69:ProjectViewProjectNode" />
@@ -116,12 +132,12 @@
       <workItem from="1553666350137" duration="976000" />
       <workItem from="1553718717896" duration="523000" />
       <workItem from="1553719297103" duration="728000" />
-      <workItem from="1553720157654" duration="776000" />
+      <workItem from="1553720157654" duration="919000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3052000" />
+    <option name="totallyTimeSpent" value="3195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="787" extended-state="0" />
@@ -168,13 +184,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="3190" selection-start-line="3190" selection-end-line="3190" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/My stuff /index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-102">
@@ -187,11 +196,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        <state relative-caret-position="255">
+          <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
           <folding>
             <element signature="e#678#2421#0" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="1414" column="21" selection-start-line="1414" selection-start-column="21" selection-end-line="1414" selection-end-column="21" />
         </state>
       </provider>
     </entry>
