@@ -1413,7 +1413,7 @@ button.button {
 .feature__title_text {
   text-transform: uppercase;
   text-align: center;
-  font-size: 12px; }
+  font-size: 16px; }
 
 .feature__content {
   margin: auto; }
@@ -10315,8 +10315,8 @@ button.button {
   list-style: none;
   display: flex;
   justify-content: space-between;
-  align-items: flex-start;
-  flex-wrap: wrap;
+  /* align-items: flex-start;
+  flex-wrap: wrap; */
   margin-top: 60px; }
   @media (max-width: 990px) {
     .features-01__items {
