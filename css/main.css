@@ -74,12 +74,12 @@ input:focus,
 textarea:focus {
   outline: none; }
 
-/* .container {
+.container {
   margin-right: auto;
   margin-left: auto;
   padding: 0 15px;
   max-width: 1080px; }
-  .container:after {
+  /*.container:after {
     content: " ";
     Older browser do not support empty content
     visibility: hidden;
@@ -99,7 +99,7 @@ textarea:focus {
   .container--xlarge {
     max-width: 1600px; }
   .container--max {
-    max-width: 100%; } */
+    max-width: 100%; }*/
 
 header {
   position: relative;
