@@ -17,15 +17,18 @@ html {
   -ms-overflow-style: scrollbar; }
 
 *::-moz-selection, *::-moz-selection {
+  background: url(gplaypattern.png) no-repeat center center fixed;
   color: white;
   background-color: #4D61FC; }
 
 *::-moz-selection, *::selection {
+  background: url(gplaypattern.png) no-repeat center center fixed;
   color: white;
   background-color: #4D61FC; }
 
 body {
-  background-color: white;
+  background: url(gplaypattern.png) no-repeat center center fixed;
+  /*background-color: white;*/
   font-family: "Lato", Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   color: #3d3d3d; }
