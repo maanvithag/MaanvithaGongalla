@@ -3508,8 +3508,8 @@ button.button {
   max-width: 100%; }
 
 .photos-03 {
-  padding-top: 70px;
-  padding-bottom: 70px; }
+  padding-top: 0px;
+  padding-bottom: 0px; }
 
 .photos-03__title_box {
   margin-bottom: 40px;
@@ -5890,7 +5890,7 @@ button.button {
   z-index: 10; }
 
 .posts-01 {
-  padding: 70px 0 70px; }
+  padding: 0px 0 70px; }
 
 .posts-01__wrapper {
   display: flex;
