@@ -106,7 +106,7 @@ header {
   z-index: 50; }
 
 a, .link, .links-02__link, .links-04__link, .links-05__link, .links-06__link {
-  color: #4D61FC;
+  color: white;
   transition: color 0.2s ease; }
 
 p a:hover, .link:hover, .links-02__link:hover, .links-04__link:hover, .links-05__link:hover, .links-06__link:hover {
